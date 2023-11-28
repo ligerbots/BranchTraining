@@ -14,6 +14,7 @@ import edu.wpi.first.wpilibj.RobotBase;
 public final class Main {
   private Main() {}
 
+  // hi this is a change! :)
   /**
    * Main initialization function. Do not perform any initialization here.
    *
